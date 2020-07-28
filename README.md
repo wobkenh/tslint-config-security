@@ -8,6 +8,8 @@
 
 Inspired by [eslint-plugin-security](https://github.com/nodesecurity/eslint-plugin-security)
 
+## This is a fork of the tslint-config-security package
+
 ## How to use
 * Install package:
 ```shell
